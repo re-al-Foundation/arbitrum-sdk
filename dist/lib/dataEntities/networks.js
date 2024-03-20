@@ -234,8 +234,8 @@ exports.networks = {
         confirmPeriodBlocks: 20,
         ethBridge: {
             bridge: '0xDabb4ee4BDF1b3C47B717951c011C9dAD2181f27',
-            // inbox: '0x5977581DB9F36E9bDCf25eD5ac38D1Cb3c39bD1C',
-            inbox: '0x56EC7cAF1F6939Ccf369F149e752c112158cCb34',
+            inbox: '0x5977581DB9F36E9bDCf25eD5ac38D1Cb3c39bD1C',
+            // inbox: '0x56EC7cAF1F6939Ccf369F149e752c112158cCb34',
             outbox: '0xAF59873D6204D3361195B6051b9CDBa013EDdbBC',
             rollup: '0x130c4239A80B2C3a7868120ca116dcb441f9e37c',
             sequencerInbox: '0x5BA835baC73A113a6bb26b817CbAD170F47759E3',
