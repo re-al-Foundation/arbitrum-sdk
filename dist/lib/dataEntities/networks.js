@@ -245,7 +245,7 @@ exports.networks = {
         isCustom: false,
         name: 'Unreal Orbit',
         partnerChainID: 17000,
-        partnerChainIDs: [17000],
+        partnerChainIDs: [],
         retryableLifetimeSeconds: constants_1.SEVEN_DAYS_IN_SECONDS,
         tokenBridge: {
             l1CustomGateway: '0x714267Da2b31d6E72cE29C05df9Ad8d4b6d676f2',
