@@ -249,7 +249,7 @@ exports.networks = {
         retryableLifetimeSeconds: constants_1.SEVEN_DAYS_IN_SECONDS,
         tokenBridge: {
             l1CustomGateway: '0x714267Da2b31d6E72cE29C05df9Ad8d4b6d676f2',
-            l1ERC20Gateway: '0x902b3E5f8F19571859F4AB1003B960a5dF693aFF',
+            l1ERC20Gateway: '0xB25949d7934F08dAb3743836de18507c27930547',
             l1GatewayRouter: '0x27e6b4d028BED57F3cb578Bd625f192d9Ff64c74',
             l1MultiCall: '0xF3cA368BeF5252476E84de2A835167c90262D3C1',
             l1ProxyAdmin: '0x49b56F569b14962d337C834D6B503f31E6b5f7c7',
